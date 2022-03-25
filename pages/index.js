@@ -121,7 +121,7 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-        Fitness, Music,{' '}
+        Fitness, Music ,{' '}
           <Link href="https://media-exp1.licdn.com/dms/image/C4E2DAQF77sYybaW-tg/profile-treasury-image-shrink_8192_8192/0/1645488173040?e=1648058400&v=beta&t=4_-cm3hINFtFDptECOrlUei74mHyldmPHbJiWkwGSJw" target="_blank">
             Art
           </Link>
@@ -129,7 +129,7 @@ const Home = () => (
           <Link href="https://www.goodreads.com/review/list/144125511?ref=nav_mybooks" target="_blank">
             Reading
           </Link>
-          , Machine Learning
+          ,Machine Learning
         </Paragraph>
       </Section>
 
@@ -150,13 +150,24 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
+            <Link href="https://www.instagram.com/adupokukevin/" target="_blank">
+              <Button
+                variant="ghost"
+                colorScheme="teal"
+                leftIcon={<IoLogoInstagram />}
+              >
+                @adupokukevin
+              </Button>
+            </Link>
+          </ListItem>
+          <ListItem>
             <Link href="https://www.linkedin.com/in/kevinadupoku/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoLinkedin />}
               >
-                @linkedIn
+                @kevinadupoku
               </Button>
             </Link>
           </ListItem>
@@ -171,33 +182,23 @@ const Home = () => (
               </Button>
             </Link>
           </ListItem>
-          <ListItem>
-            <Link href="https://www.instagram.com/adupokukevin/" target="_blank">
-              <Button
-                variant="ghost"
-                colorScheme="teal"
-                leftIcon={<IoLogoInstagram />}
-              >
-                @adupokukevin
-              </Button>
-            </Link>
-          </ListItem>
+          
         </List>
 
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            href="https://www.youtube.com/devaslife"
+            href="https://www.linkedin.com/in/kevinadupoku/"
             title="Resume"
             thumbnail={thumbInkdrop}
           >
-            Art Collective
+            My most up-to-date resume
           </GridItem>
           <GridItem
             href="https://www.linkedin.com/in/kevinadupoku/" 
             title="Project Negus"
             thumbnail={thumbYouTube}
           >
-            My most up-to-date resume
+            Art Collective
           </GridItem>
         </SimpleGrid>
 

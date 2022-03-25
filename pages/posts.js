@@ -3,9 +3,9 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 
-import thumbFishWorkflow from '../public/images/contents/youtube-fish-workflow.jpg'
-import thumbMyDeskSetup from '../public/images/contents/youtube-my-desk-setup.jpg'
-import thumb500PaidUsers from '../public/images/contents/blog-500-paid-users.jpg'
+import thumbShell from '../public/images/contents/terminal.jpg'
+import thumbMyDeskSetup from '../public/images/contents/symbolic link.jpg'
+import thumb500PaidUsers from '../public/images/contents/gcc-main.jpg'
 import thumbFinancialGoal from '../public/images/contents/blog-financial-goal.png'
 import thumbHowToPriceYourself from '../public/images/contents/blog-how-to-price-yourself.jpg'
 import thumb50xFaster from '../public/images/contents/youtube-50x-faster.jpg'
@@ -21,7 +21,7 @@ const Posts = () => (
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
             title="What happens when you type ls*c"
-            thumbnail={thumbFishWorkflow}
+            thumbnail={thumbShell}
             href="https://kadupoku.medium.com/shell-101-aa402220f69b"
           />
           <GridItem

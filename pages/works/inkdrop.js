@@ -15,29 +15,26 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Website</Meta>
-          <Link href="https://www.inkdrop.app/">
-            https://www.inkdrop.app/ <ExternalLinkIcon mx="2px" />
+          <Link href="https://vod-progressive.akamaized.net/exp=1648078995~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3871%2F7%2F194359096%2F650148730.mp4~hmac=ea30ab9903f1b56729a288ff092f09d152211cbd061f247e2f03043d73e8f88d/vimeo-prod-skyfire-std-us/01/3871/7/194359096/650148730.mp4">
+            negus.io <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
-          <Meta>Platform</Meta>
-          <span>Windows/macOS/Linux/iOS/Android</span>
+          <Meta>Goal</Meta>
+          <span>Celebration of our people, by our people; The Unification of Us
+</span>
         </ListItem>
         <ListItem>
-          <Meta>Stack</Meta>
-          <span>NodeJS, Electron, React Native</span>
-        </ListItem>
-        <ListItem>
-          <Meta>Blogpost</Meta>
-          <Link href="https://blog.inkdrop.app/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820">
-            How I’ve Attracted The First 500 Paid Users For My SaaS That Costs
-            $5/mo <ExternalLinkIcon mx="2px" />
+          <Meta>Events</Meta>
+          <Link href="https://cdn.jwplayer.com/manifests/raSnFGs6.m3u8">
+            Panel disussion on Childish Gambino's revolutionary album, "Awaken My Love!"
+           <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
       </List>
 
-      <WorkImage src="/images/works/inkdrop_01.png" alt="Inkdrop" />
-      <WorkImage src="/images/works/inkdrop_02.png" alt="Inkdrop" />
+      <WorkImage src="/images/works/negus.mp4" alt="Inkdrop" />
+      <WorkImage src="/images/works/negus2.mp4" alt="Inkdrop" />
     </Container>
   </Layout>
 )

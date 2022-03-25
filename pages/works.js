@@ -4,6 +4,7 @@ import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 
 import thumbInkdrop from '../public/images/works/inkdrop_eyecatch.png'
+import thumbYouTube from '../public/images/links/youtube.png'
 import thumbWalknote from '../public/images/works/walknote_eyecatch.png'
 import thumbFourPainters from '../public/images/works/the-four-painters_eyecatch.jpg'
 import thumbMenkiki from '../public/images/works/menkiki_eyecatch.png'
@@ -22,7 +23,7 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
-          <WorkGridItem id="inkdrop" title="Project Negus" thumbnail={thumbInkdrop}>
+          <WorkGridItem id="inkdrop" title="Project Negus" thumbnail={thumbYouTube}>
             Project negus was a grassroots art collective using art as a medium to revolutionize and change the thought of the oppressed.
           </WorkGridItem>
         </Section>
@@ -39,17 +40,15 @@ const Works = () => (
         <Section delay={0.1}>
           <WorkGridItem
             id="fourpainters"
-            title="The four painters"
+            title="Lego Shop"
             thumbnail={thumbFourPainters}
           >
-            A video work generated with deep learning, imitating famous four
-            painters like Van Gogh
+            An e-commerce application that has all the features you would want!
           </WorkGridItem>
         </Section>
         <Section delay={0.1}>
-          <WorkGridItem id="menkiki" thumbnail={thumbMenkiki} title="Menkiki">
-            An app that suggests ramen(noodle) shops based on a given photo of
-            the ramen you want to eat
+          <WorkGridItem id="menkiki" thumbnail={thumbMenkiki} title="Lego Star Wars API">
+          A RESTful API that serves product data from Lego.com.
           </WorkGridItem>
         </Section>
       </SimpleGrid>
@@ -67,14 +66,14 @@ const Works = () => (
           <WorkGridItem
             id="modetokyo"
             thumbnail={thumbModeTokyo}
-            title="mode.tokyo"
+            title="Weather App"
           >
-            The mode magazine for understanding to personally enjoy Japan
+            A simple weather app that fetches current weather forecast based on city.
           </WorkGridItem>
         </Section>
         <Section delay={0.3}>
-          <WorkGridItem id="styly" thumbnail={thumbStyly} title="Styly">
-            A VR Creative tools for fashion brands
+          <WorkGridItem id="styly" thumbnail={thumbStyly} title="Restaurant">
+          A custom-designed restaurant site that utilizes Google Maps API.
           </WorkGridItem>
         </Section>
       </SimpleGrid>
@@ -89,17 +88,17 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section delay={0.5}>
-          <WorkGridItem id="pichu2" thumbnail={thumbPichu2} title="Pichu*Pichu">
-            Twitter client app for iPhone Safari
+          <WorkGridItem id="pichu2" thumbnail={thumbPichu2} title="Smash Bot">
+          A game that allows players to fight with their favorite smash characters against their friends.
           </WorkGridItem>
         </Section>
         <Section delay={0.5}>
           <WorkGridItem
-            id="freedbtagger"
+            id="todo-app"
             thumbnail={thumbFreeDBTagger}
-            title="freeDBTagger"
+            title="Todo App"
           >
-            Automatic audio file tagging tool using FreeDB for Windows
+            An amped up Todo List dashboard. Users can perform basic CRUD operations.
           </WorkGridItem>
         </Section>
         <Section delay={0.6}>
