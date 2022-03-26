@@ -15,7 +15,7 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Website</Meta>
-          <Link href="https://vod-progressive.akamaized.net/exp=1648078995~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3871%2F7%2F194359096%2F650148730.mp4~hmac=ea30ab9903f1b56729a288ff092f09d152211cbd061f247e2f03043d73e8f88d/vimeo-prod-skyfire-std-us/01/3871/7/194359096/650148730.mp4">
+          <Link href="https://cdn.jwplayer.com/videos/raSnFGs6-U1u6Qq09.mp4">
             negus.io <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
