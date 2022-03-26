@@ -33,8 +33,8 @@ const Work = () => (
         </ListItem>
       </List>
 
-      <WorkImage src="/images/works/negus.mp4" alt="Inkdrop" />
-      <WorkImage src="/images/works/negus2.mp4" alt="Inkdrop" />
+      <WorkImage src="https://cdn.jwplayer.com/videos/Ts5mrWep-U1u6Qq09.mp4" alt="Negus" />
+      <WorkImage src="https://cdn.jwplayer.com/videos/wvc5C6yF-U1u6Qq09.mp4" alt="Negus" />
     </Container>
   </Layout>
 )
