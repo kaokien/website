@@ -36,7 +36,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I'm a full-stack developer based in New Haven!
+        Hello, I`m a full-stack developer based in New Haven!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -79,7 +79,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           I am a full-stack developer and support engineer based in New Haven with a
-          passion for building digitals services and continously self-learning. I have a knack
+          passion for building digitals services and continuously self-learning. I have a knack
           for all things launching products, from planning and designing all the
           way to solving real-life problems with code. When not online, I love
           working out and reading-self development books. Currently, I am an employee of JW Player

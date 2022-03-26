@@ -27,7 +27,7 @@ const Work = () => (
         <ListItem>
           <Meta>Events</Meta>
           <Link href="https://cdn.jwplayer.com/manifests/raSnFGs6.m3u8">
-            Panel disussion on Childish Gambino's revolutionary album, "Awaken My Love!"
+            Panel disussion on Childish Gambino`s revolutionary album, {"Awaken My Love!"}
            <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
