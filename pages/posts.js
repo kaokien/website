@@ -22,7 +22,7 @@ const Posts = () => (
           <GridItem
             title="What happens when you type ls*c"
             thumbnail={thumbShell}
-            href="https://kadupoku.medium.com/shell-101-aa402220f69b"
+            href="https://easy-bandicoot.super.site/aperiendum-est-igitur"
           />
           <GridItem
             title="Differences Between Hard link and Soft link"
@@ -37,7 +37,7 @@ const Posts = () => (
           <GridItem
             title="Typing GCC main.c in the Terminal"
             thumbnail={thumb500PaidUsers}
-            href="https://kadupoku.medium.com/typing-gcc-main-c-in-the-terminal-8e9daf5f0797"
+            href="https://easy-bandicoot.super.site/essay-index/typing-gcc-mainc-in-the-terminal"
           />
           <GridItem
             title="The tools I used to improve my budget."
