@@ -36,7 +36,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I`m a full-stack developer based in New Haven!
+        Hello, I'm a full-stack developer based in New Haven!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -127,9 +127,9 @@ const Home = () => (
           </Link>
           , Hiking,{' '}
           <Link href="https://www.goodreads.com/review/list/144125511?ref=nav_mybooks" target="_blank">
-            Reading
+            Reading {' '}
           </Link>
-          ,Machine Learning
+          and Machine Learning
         </Paragraph>
       </Section>
 

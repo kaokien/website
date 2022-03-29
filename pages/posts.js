@@ -22,12 +22,12 @@ const Posts = () => (
           <GridItem
             title="What happens when you type ls*c"
             thumbnail={thumbShell}
-            href="https://easy-bandicoot.super.site/aperiendum-est-igitur"
+            href="https://adupokukevin.notion.site/What-happens-when-you-type-ls-c-a1e848567ce240caa35715e9e6f91c47"
           />
           <GridItem
             title="Differences Between Hard link and Soft link"
             thumbnail={thumbMyDeskSetup}
-            href="https://kadupoku.medium.com/differences-between-hard-link-and-soft-link-a7cf0a34e284"
+            href="https://adupokukevin.notion.site/Differences-Between-Hard-link-and-Soft-link-75e3f540f5e845e3b00fbd6fe6db5453"
           />
         </SimpleGrid>
       </Section>
@@ -37,7 +37,7 @@ const Posts = () => (
           <GridItem
             title="Typing GCC main.c in the Terminal"
             thumbnail={thumb500PaidUsers}
-            href="https://easy-bandicoot.super.site/essay-index/typing-gcc-mainc-in-the-terminal"
+            href="https://adupokukevin.notion.site/Typing-GCC-main-c-in-the-Terminal-31615c060d0f4582acc27f643d25cf9f"
           />
           <GridItem
             title="The tools I used to improve my budget."

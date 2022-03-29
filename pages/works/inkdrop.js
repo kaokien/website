@@ -33,8 +33,8 @@ const Work = () => (
         </ListItem>
       </List>
 
-      <WorkImage src="https://cdn.jwplayer.com/videos/Ts5mrWep-U1u6Qq09.mp4" alt="Negus" />
-      <WorkImage src="https://cdn.jwplayer.com/videos/wvc5C6yF-U1u6Qq09.mp4" alt="Negus" />
+      <iframe src="https://cdn.jwplayer.com/players/Ts5mrWep-TcKAhMMJ.html" borderRadius="full" height="lg" alt="Negus"></iframe>
+      <iframe src="https://cdn.jwplayer.com/players/wvc5C6yF-TcKAhMMJ.html" width="full" height="lg" alt="Negus"></iframe>
     </Container>
   </Layout>
 )
