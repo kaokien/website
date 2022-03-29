@@ -15,8 +15,8 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Website</Meta>
-          <Link href="https://cdn.jwplayer.com/videos/raSnFGs6-U1u6Qq09.mp4">
-            negus.io <ExternalLinkIcon mx="2px" />
+          <Link href="https://cdn.jwplayer.com/videos/6jA04nfn-U1u6Qq09.mp4">
+            Intro <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
@@ -26,8 +26,8 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Events</Meta>
-          <Link href="https://cdn.jwplayer.com/manifests/raSnFGs6.m3u8">
-            Panel disussion on Childish Gambino`s revolutionary album, {"Awaken My Love!"}
+          <Link href="https://cdn.jwplayer.com/videos/raSnFGs6-U1u6Qq09.mp4">
+            Panel disussion on Childish Gambino&apos;s revolutionary album, {"Awaken My Love!"}
            <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
