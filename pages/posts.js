@@ -40,9 +40,9 @@ const Posts = () => (
             href="https://adupokukevin.notion.site/Typing-GCC-main-c-in-the-Terminal-31615c060d0f4582acc27f643d25cf9f"
           />
           <GridItem
-            title="The tools I used to improve my budget."
+            title="The Ideal Desk Setup"
             thumbnail={thumbFinancialGoal}
-            href="https://blog.inkdrop.app/i-stopped-setting-a-financial-goal-for-my-saas-a92c3db65506"
+            href="https://www.craft.do/s/M6UFrW5poc4ORW"
           />
         </SimpleGrid>
       </Section>
