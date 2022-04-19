@@ -22,12 +22,12 @@ const Posts = () => (
           <GridItem
             title="What happens when you type ls*c"
             thumbnail={thumbShell}
-            href="https://adupokukevin.notion.site/What-happens-when-you-type-ls-c-a1e848567ce240caa35715e9e6f91c47"
+            href="https://www.craft.do/s/5vKmI6SP2BXhq2"
           />
           <GridItem
             title="Differences Between Hard link and Soft link"
             thumbnail={thumbMyDeskSetup}
-            href="https://adupokukevin.notion.site/Differences-Between-Hard-link-and-Soft-link-75e3f540f5e845e3b00fbd6fe6db5453"
+            href="https://www.craft.do/s/zmiFyJSO6nMEOm"
           />
         </SimpleGrid>
       </Section>
@@ -37,7 +37,7 @@ const Posts = () => (
           <GridItem
             title="Typing GCC main.c in the Terminal"
             thumbnail={thumb500PaidUsers}
-            href="https://adupokukevin.notion.site/Typing-GCC-main-c-in-the-Terminal-31615c060d0f4582acc27f643d25cf9f"
+            href="https://www.craft.do/s/B7neW64AXCEnpt"
           />
           <GridItem
             title="The Ideal Desk Setup"
