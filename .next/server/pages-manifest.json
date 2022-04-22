@@ -2,8 +2,9 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/404": "pages/404.js",
-  "/": "pages/index.js",
+  "/blog": "pages/blog.js",
+  "/works": "pages/works.js",
   "/posts": "pages/posts.js",
-  "/blog": "pages/blog.js"
+  "/": "pages/index.js",
+  "/404": "pages/404.js"
 }
