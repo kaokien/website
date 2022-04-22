@@ -1,0 +1,12 @@
+.postbody h2 {
+  color: gray;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.postbody h1 {
+  margin: 10px 0;
+  font-size: 150%;
+  font-weight: bold;
+  line-height: 2.3;
+}
