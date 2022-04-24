@@ -66,7 +66,7 @@ const VoxelDog = () => {
       camera.lookAt(target)
       setCamera(camera)
 
-      const ambientLight = new THREE.AmbientLight(0xffffff, 1.5)
+      const ambientLight = new THREE.AmbientLight(0xcccccc, 1)
       scene.add(ambientLight)
 
       const controls = new OrbitControls(camera, renderer.domElement)
@@ -84,14 +84,14 @@ const VoxelDog = () => {
 
       let req = null
       let frame = 0
-      function animate() {
+      const animate = () => {
         req = requestAnimationFrame(animate)
 
         frame = frame <= 100 ? frame + 1 : frame
 
         if (frame <= 100) {
           const p = initialCameraPosition
-          const rotSpeed = -easeOutCirc(frame / 120) * Math.PI * 10
+          const rotSpeed = -easeOutCirc(frame / 120) * Math.PI * 20
 
           camera.position.y = 10
           camera.position.x =
