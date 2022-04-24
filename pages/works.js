@@ -23,7 +23,7 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
-          <WorkGridItem id="inkdrop" title="Project Negus" thumbnail={thumbYouTube}>
+          <WorkGridItem id="negus" title="Project Negus" thumbnail={thumbYouTube}>
             Project negus was a grassroots art collective using art as a medium to revolutionize and change the thought of the oppressed.
           </WorkGridItem>
         </Section>
