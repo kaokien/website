@@ -5,7 +5,7 @@ import { useRouter } from 'next/router'
 
 const Bottombar = () => {
   const url = useRouter().asPath
-  const { onCopy, hasCopied } = useClipboard('https://www.lionceu.live' + url)
+  const { onCopy, hasCopied } = useClipboard('https://www.adupokukevin.com' + url)
 
   const scrollToTop = () => {
     window.scrollTo({

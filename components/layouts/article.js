@@ -9,7 +9,7 @@ const variants = {
 }
 
 const Layout = ({ children, title }) => (
-  <motion.article
+  <motion.articles
     initial="hidden"
     animate="enter"
     exit="exit"
@@ -29,7 +29,7 @@ const Layout = ({ children, title }) => (
 
       <GridItemStyle />
     </>
-  </motion.article>
+  </motion.articles>
 )
 
 export default Layout

@@ -77,7 +77,7 @@ const Navbar = props => {
           <LinkItem href="/blog" path={path}>
             Blog
           </LinkItem>
-          <LinkItem href="/posts" path={path}>
+          <LinkItem href="/posts2" path={path}>
             Posts
           </LinkItem>
           <LinkItem
@@ -90,7 +90,7 @@ const Navbar = props => {
             pl={2}
           >
             <IoLogoGithub />
-            Source
+            Source 
           </LinkItem>
         </Stack>
 
@@ -119,7 +119,8 @@ const Navbar = props => {
                   as={Link}
                   href="https://github.com/kaokien/"
                 >
-                  View Source
+                  Github
+                  
                 </MenuItem>
               </MenuList>
             </Menu>

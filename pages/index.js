@@ -86,7 +86,7 @@ const Home = () => (
           supporting their JavaScript webplayer and iOS and Android SDKs.
         </Paragraph>
         <Box align="center" my={4}>
-          <NextLink href="/works" scroll={false}>
+          <NextLink href="/works" scroll={false} passHref>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               My portfolio
             </Button>
@@ -122,11 +122,11 @@ const Home = () => (
         </Heading>
         <Paragraph>
         Fitness, Music ,{' '}
-          <Link href="https://media-exp1.licdn.com/dms/image/C4E2DAQF77sYybaW-tg/profile-treasury-image-shrink_8192_8192/0/1645488173040?e=1648058400&v=beta&t=4_-cm3hINFtFDptECOrlUei74mHyldmPHbJiWkwGSJw" target="_blank">
+          <Link href="https://media-exp1.licdn.com/dms/image/C4E2DAQF77sYybaW-tg/profile-treasury-image-shrink_8192_8192/0/1645488173040?e=1648058400&v=beta&t=4_-cm3hINFtFDptECOrlUei74mHyldmPHbJiWkwGSJw" target="_blank" passHref>
             Art
           </Link>
           , Hiking,{' '}
-          <Link href="https://www.goodreads.com/review/list/144125511?ref=nav_mybooks" target="_blank">
+          <Link href="https://www.goodreads.com/review/list/144125511?ref=nav_mybooks" target="_blank" passHref>
             Reading {' '}
           </Link>
           and Machine Learning
@@ -139,7 +139,7 @@ const Home = () => (
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/kaokien" target="_blank">
+            <Link href="https://github.com/kaokien" target="_blank" passHref>
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -150,7 +150,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.instagram.com/adupokukevin/" target="_blank">
+            <Link href="https://www.instagram.com/adupokukevin/" target="_blank" passHref>
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -161,7 +161,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.linkedin.com/in/kevinadupoku/" target="_blank">
+            <Link href="https://www.linkedin.com/in/kevinadupoku/" target="_blank" passHref>
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -172,7 +172,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/kevinadupoku" target="_blank">
+            <Link href="https://twitter.com/kevinadupoku" target="_blank" passHref>
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -189,22 +189,22 @@ const Home = () => (
           <GridItem
             href="https://www.linkedin.com/in/kevinadupoku/"
             title="Resume"
-            thumbnail={thumbInkdrop}
+            thumbnail={thumbInkdrop} passHref
           >
             My most up-to-date resume
           </GridItem>
           <GridItem
             href="https://www.linkedin.com/in/kevinadupoku/" 
             title="Project Negus"
-            thumbnail={thumbYouTube}
+            thumbnail={thumbYouTube} passHref
           >
             Art Collective
           </GridItem>
         </SimpleGrid>
 
         <Box align="center" my={4}>
-          <NextLink href="/posts" scroll={false}>
-            <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
+          <NextLink href="/posts2" scroll={false} passHref>
+            <Button rightIcon={<ChevronRightIcon />} colorScheme="teal" passHref>
               Popular posts
             </Button>
           </NextLink>
