@@ -27,10 +27,6 @@ function PostPage({ frontmatter: { title, date }, content }) {
         >
           
           <BreadcrumbItem>
-            <BreadcrumbLink href="/">Home</BreadcrumbLink>
-          </BreadcrumbItem>
-
-          <BreadcrumbItem>
             <BreadcrumbLink href="/blog">Blog</BreadcrumbLink>
           </BreadcrumbItem>
 

@@ -50,7 +50,7 @@ const Posts = () => (
       <Section delay={0.5}>
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            title="How excerise provided me a framework for improving my productivity."
+            title="How excercise provided me a framework for improving my productivity."
             thumbnail={thumbHowToPriceYourself}
             href="https://blog.inkdrop.app/how-to-price-yourself-as-a-freelance-developer-3453dfd59d91"
           />
