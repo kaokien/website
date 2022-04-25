@@ -188,7 +188,7 @@ const Home = () => (
 
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            href="../public/resume.pdf"
+            href="https://www.icloud.com/iclouddrive/0bfJtwFVXzOkO5uMNcIszy-nA#Kevin's_Resume_03_with_projects_copy"
             title="Resume"
             thumbnail={thumbInkdrop} 
           >
