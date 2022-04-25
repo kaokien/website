@@ -14,15 +14,18 @@ import Layout from '../../components/layouts/article'
 import styles from '../style.module.css'
 import Bottombar from '../../components/menu'
 
+
 function PostPage({ frontmatter: { title, date }, content }) {
   return (
     <>
+      
       <Layout>
         <Breadcrumb
           spacing="8px"
           separator={<ChevronRightIcon color="gray.500" />}
           position="relative"
         >
+          
           <BreadcrumbItem>
             <BreadcrumbLink href="/">Home</BreadcrumbLink>
           </BreadcrumbItem>
@@ -45,9 +48,13 @@ function PostPage({ frontmatter: { title, date }, content }) {
             />
           </Box>
         </Box>
+        
       </Layout>
+      
       <Bottombar />
-    </>
+      
+       </>
+       
   )
 }
 

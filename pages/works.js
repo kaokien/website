@@ -30,10 +30,10 @@ const Works = () => (
         <Section>
           <WorkGridItem
             id="walknote"
-            title="walknote"
+            title="Recipe-Site"
             thumbnail={thumbWalknote}
           >
-            Music recommendation app for iOS
+            Simple recipe site
           </WorkGridItem>
         </Section>
 

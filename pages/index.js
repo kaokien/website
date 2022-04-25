@@ -187,14 +187,13 @@ const Home = () => (
 
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            href="https://www.linkedin.com/in/kevinadupoku/"
+            href="../public/resume.pdf"
             title="Resume"
             thumbnail={thumbInkdrop} passHref
           >
             My most up-to-date resume
           </GridItem>
-          <GridItem
-            href="https://www.linkedin.com/in/kevinadupoku/" 
+          <GridItem href="works/negus" 
             title="Project Negus"
             thumbnail={thumbYouTube} passHref
           >

@@ -1,40 +1,40 @@
 ---
 title: 'Courage to be Disliked'
-date: '19-4-2022'
+date: '04-22-2022'
 tag: ['All']
 ---
 
-## Deny Trauma
+# Deny Trauma
 
 Using the past to determine the present via cause and effect leads to determinism
 
 The past doesn’t matter
 
-## Trauma Does Not Exist
+# Trauma Does Not Exist
 
 Adler “We are not determined by our experiences, but the meaning we give them is self-determining”
 
 Treating life as a narrative causes a causality and sense of dramatic development.
 
-## People Fabricate Anger
+# People Fabricate Anger
 
 Anger is a means to achieve a goal, can be wielded and sheathed at will.
 
-## How to Live Without Being Controlled by the Past
+# How to Live Without Being Controlled by the Past
 
 Regardless of what may have happened in the past, the meaning that is attributed to it will determine the way someone’s present will be.
 
 The premise that people can change allows infinite possibilities to occur.
 
-## Socrates and Adler
+# Socrates and Adler
 
 Arrive to answers through self-discovery and have discussions to improve understanding
 
-## Are You Okay Just As You Are?
+# Are You Okay Just As You Are?
 
 Wishing to be someone else indicates that I am seeking happiness that I do not currently have
 
-## Unhappiness Is Something You Choose for Yourself
+# Unhappiness Is Something You Choose for Yourself
 
 Fixating on what you are born with does not change reality, we need renewal not replacement.
 
@@ -44,7 +44,7 @@ Greek word for good (agathon) does not have moral mean, it just means beneficial
 
 We choose unhappiness because it provides a form of good (agathon) for onself
 
-## People Always Choose Not to Change
+# People Always Choose Not to Change
 
 Personality and disposition are described as “lifestyle” in Adlerian psychology.
 
@@ -54,7 +54,7 @@ One is unable to change because they’ve made the decision not to.
 
 When trying to change lifestyles it requires great courage. There is anxiety and potential disappointment with the lack of change.
 
-## Your Life Is Decided Here and Now
+# Your Life Is Decided Here and Now
 
 Make the decision to stop current lifestyle and develop the lifestyle you’d love
 
