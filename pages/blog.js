@@ -3,13 +3,14 @@ import path from 'path'
 import Post from '../components/post'
 import matter from 'gray-matter'
 import { sortByDate } from '../utils/day'
-import { Container, Heading } from '@chakra-ui/react'
+import { Container, Heading} from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
 
 function Blog({ posts }) {
   return (
     <Layout>
       <Container>
+      
         <Heading as="h3" fontSize={22} mb={3} position="relative">
           Kevin&apos;s blog
         </Heading>

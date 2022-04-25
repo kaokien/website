@@ -75,7 +75,7 @@ const VoxelDog = () => {
       setControls(controls)
 
       loadGLTFModel(scene, '/moon.glb', {
-        receiveShadow: false,
+        receiveShadow: true,
         castShadow: false
       }).then(() => {
         animate()
