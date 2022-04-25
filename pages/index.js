@@ -35,6 +35,7 @@ const Home = () => (
         p={3}
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
+        css={{ backdropFilter: 'blur(10px)' }}
       >
         Hello, I&apos;m a full-stack developer based in New Haven!
       </Box>
@@ -86,7 +87,7 @@ const Home = () => (
           supporting their JavaScript webplayer and iOS and Android SDKs.
         </Paragraph>
         <Box align="center" my={4}>
-          <NextLink href="/works" scroll={false} passHref>
+          <NextLink href="/works" scroll={false}>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               My portfolio
             </Button>
@@ -189,13 +190,13 @@ const Home = () => (
           <GridItem
             href="../public/resume.pdf"
             title="Resume"
-            thumbnail={thumbInkdrop} passHref
+            thumbnail={thumbInkdrop} 
           >
             My most up-to-date resume
           </GridItem>
           <GridItem href="works/negus" 
             title="Project Negus"
-            thumbnail={thumbYouTube} passHref
+            thumbnail={thumbYouTube} 
           >
             Art Collective
           </GridItem>
