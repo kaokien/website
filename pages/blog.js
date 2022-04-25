@@ -10,7 +10,7 @@ function Blog({ posts }) {
   return (
     <Layout>
       <Container>
-        <Heading as="h3" fontSize={20} mb={4} position="relative">
+        <Heading as="h3" fontSize={22} mb={3} position="relative">
           Kevin&apos;s blog
         </Heading>
         {posts.map((posts, index) => (

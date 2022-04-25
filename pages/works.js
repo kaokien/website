@@ -102,9 +102,8 @@ const Works = () => (
           </WorkGridItem>
         </Section>
         <Section delay={0.6}>
-          <WorkGridItem id="amembo" thumbnail={thumbAmembo} title="Amembo">
-            P2P private file sharing tool with MSN Messenger integration for
-            Windows
+          <WorkGridItem id="amembo" thumbnail={thumbAmembo} title="CV Builder App">
+          React application that exports result to PDF using html2canvas and jsPDF.
           </WorkGridItem>
         </Section>
       </SimpleGrid>

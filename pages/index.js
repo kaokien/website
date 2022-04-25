@@ -122,11 +122,11 @@ const Home = () => (
         </Heading>
         <Paragraph>
         Fitness, Music ,{' '}
-          <Link href="https://media-exp1.licdn.com/dms/image/C4E2DAQF77sYybaW-tg/profile-treasury-image-shrink_8192_8192/0/1645488173040?e=1648058400&v=beta&t=4_-cm3hINFtFDptECOrlUei74mHyldmPHbJiWkwGSJw" target="_blank" passHref>
+          <Link href="https://media-exp1.licdn.com/dms/image/C4E2DAQF77sYybaW-tg/profile-treasury-image-shrink_8192_8192/0/1645488173040?e=1648058400&v=beta&t=4_-cm3hINFtFDptECOrlUei74mHyldmPHbJiWkwGSJw" target="_blank" >
             Art
           </Link>
           , Hiking,{' '}
-          <Link href="https://www.goodreads.com/review/list/144125511?ref=nav_mybooks" target="_blank" passHref>
+          <Link href="https://www.goodreads.com/review/list/144125511?ref=nav_mybooks" target="_blank" >
             Reading {' '}
           </Link>
           and Machine Learning
@@ -139,7 +139,7 @@ const Home = () => (
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/kaokien" target="_blank" passHref>
+            <Link href="https://github.com/kaokien" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -150,7 +150,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.instagram.com/adupokukevin/" target="_blank" passHref>
+            <Link href="https://www.instagram.com/adupokukevin/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -161,7 +161,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.linkedin.com/in/kevinadupoku/" target="_blank" passHref>
+            <Link href="https://www.linkedin.com/in/kevinadupoku/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -172,7 +172,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/kevinadupoku" target="_blank" passHref>
+            <Link href="https://twitter.com/kevinadupoku" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -202,8 +202,8 @@ const Home = () => (
         </SimpleGrid>
 
         <Box align="center" my={4}>
-          <NextLink href="/posts2" scroll={false} passHref>
-            <Button rightIcon={<ChevronRightIcon />} colorScheme="teal" passHref>
+          <NextLink href="/posts2" scroll={false}>
+            <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               Popular posts
             </Button>
           </NextLink>
