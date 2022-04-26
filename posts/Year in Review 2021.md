@@ -15,7 +15,7 @@ tag: ['All']
 - **Code More**: Part of improving my capabilities as a developer is to ship and do more. If I consistently code on a daily basis, I will create the habits I need to become a more competent developer.
 - **Community Involvement**: As I hinted earlier in this list, community is paramount for me to not feel isolated. The challenge I see with the online community is how pervasive and time-consuming it can be, but I will still push myself to cultivate one. I can go to meetups or hackathons.
 - **Write More**: I haven't written a formal essay in a couple of years now, so there are clearly areas of improvements for me. Writing more will help me structure my thoughts and build legitimacy in whatever domains I wish to insert myself in. Plus writing is like magic in that it can construct objects that did not exist until invoked.
-- **Learn in Public**: This is pretty self-explanatory but learning in public has two benefits. It helps build a personal brand and helps other newer engineers learn along the way. I want to build a personal brand in the developer community both online and offline. The concept of learning publicly is explained [here](https://www.swyx.io/writing/learn-in-public/).
+- **Learn in Public**: This is pretty self-explanatory but learning in public has two benefits. It helps build a personal brand and helps other newer engineers learn along the way. I want to build a personal brand in the developer community both online and offline. The concept of learning publicly is explained <span style="color:blue">[here](https://www.swyx.io/writing/learn-in-public/).</span>
 
 # 2021 Victories
 
@@ -24,10 +24,10 @@ tag: ['All']
 - I made it to the second year of living away from my parents and it's been better than ever.
 - I've gotten significantly stronger at the gym and have been successful at bench-pressing 270lbs 💪🏿.
   \
-   \
-   \
-  I have had quite a year, there are many details that I have missed but as an overview I think this hits the mark. Goals are important but what matters most is how I accomplish them.
+  \
+   I have had quite a year, there are many details that I have missed but as an overview I think this hits the mark. Goals are important but what matters most is how I accomplish them.
 
 Cheers to an amazing 2021. I am looking forward to 2022 and what it has to offer. Hopefully it turns out to be better than 2021!
-
+\
+\
 ![2022 New Years](https://bigcedar.com/wp-content/uploads/2020/12/AdobeStock_453941794-1.jpg)
