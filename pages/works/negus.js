@@ -1,4 +1,4 @@
-import { Container, Badge, Link, List, ListItem } from '@chakra-ui/react'
+import { Container, Badge, Link, List, ListItem, AspectRatio} from '@chakra-ui/react'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
 import { Title, Meta } from '../../components/work'
 import P from '../../components/paragraph'
@@ -33,8 +33,20 @@ const Work = () => (
         </ListItem>
       </List>
 
-      <iframe src="https://cdn.jwplayer.com/players/Ts5mrWep-TcKAhMMJ.html" width="640" height="360" alt="Negus"></iframe>
-      <iframe src="https://cdn.jwplayer.com/players/wvc5C6yF-TcKAhMMJ.html" width="640" height="360" alt="Negus"></iframe>
+      <AspectRatio maxW="100%" ratio={2}>
+        <iframe
+          src="https://cdn.jwplayer.com/players/Ts5mrWep-TcKAhMMJ.html"
+          title="Negus Intro"
+          allowFullScreen
+        />
+      </AspectRatio>
+      <AspectRatio maxW="100%" ratio={2}>
+        <iframe
+          src="https://cdn.jwplayer.com/players/wvc5C6yF-TcKAhMMJ.html"
+          title="Negus Intro"
+          allowFullScreen
+        />
+      </AspectRatio>
     </Container>
   </Layout>
 )
