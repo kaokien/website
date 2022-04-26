@@ -16,4 +16,4 @@ Improves working memory and intelligence with processing speed
 
 ## References
 
-<span style="color:blue"><u>[What Does Creatine Do?](https://www.youtube.com/watch?v=NclX6EW0pr0)</span></u>
+<iframe width="469" height="264" src="https://www.youtube.com/embed/NclX6EW0pr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
