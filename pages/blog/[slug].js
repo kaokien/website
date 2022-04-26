@@ -26,7 +26,7 @@ function PostPage({ frontmatter: { title, date }, content }) {
           position="relative"
         >
           <BreadcrumbItem>
-            <BreadcrumbLink href="/" passHref>Home</BreadcrumbLink>
+            <BreadcrumbLink href="/">Home</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbItem>
             <BreadcrumbLink href="/blog">Blog</BreadcrumbLink>
