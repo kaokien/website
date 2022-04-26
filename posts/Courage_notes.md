@@ -1,5 +1,5 @@
 ---
-title: 'Courage to be Disliked'
+title: 'Notes on Courage to be Disliked'
 date: '04-22-2022'
 tag: ['All']
 ---
@@ -98,3 +98,4 @@ People are not paying attention to your life as much as you think they are
 View people as comrades and life will dramatically change in opportunity
 
 # From Power Struggle to Revenge
+
