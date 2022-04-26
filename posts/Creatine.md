@@ -6,8 +6,6 @@ tag: ['All']
 
 # Benefits of Creatine
 
-Created: 2022-04-19 12:24
-
 What is creatine - Amino acid naturally found in beef, pork, fish, made in body
 
 What it does - Energy Production ATP Adenine Triphosphate
@@ -18,4 +16,4 @@ Improves working memory and intelligence with processing speed
 
 ## References
 
-1. https://www.youtube.com/watch?v=NclX6EW0pr0
+<span style="color:blue"><u>[What Does Creatine Do?](https://www.youtube.com/watch?v=NclX6EW0pr0)</span></u>

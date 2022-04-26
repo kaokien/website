@@ -23,6 +23,6 @@ Imagining a long-term goal failing (think of what may cause failure)
 How do I end up distracted (eliminate distractions instead of consuming productivity videos)
 Figure out how to not lose money (instead of how to make money)
 
-## References
+# References
 
-1. [The art of Inversion](/blog/The%20art%20of%20Inversion)
+<span style="color:blue"><u>[Inversion: The Crucial Thinking Skill Nobody Ever Taught You](https://jamesclear.com/inversion)</span></u>

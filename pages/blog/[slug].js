@@ -25,7 +25,9 @@ function PostPage({ frontmatter: { title, date }, content }) {
           separator={<ChevronRightIcon color="gray.500" />}
           position="relative"
         >
-          
+          <BreadcrumbItem>
+            <BreadcrumbLink href="/" passHref>Home</BreadcrumbLink>
+          </BreadcrumbItem>
           <BreadcrumbItem>
             <BreadcrumbLink href="/blog">Blog</BreadcrumbLink>
           </BreadcrumbItem>
