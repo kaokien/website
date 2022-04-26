@@ -40,9 +40,9 @@ const Work = () => (
           allowFullScreen
         />
       </AspectRatio>
-      <AspectRatio maxW="100%" ratio={2}>
+      <AspectRatio maxW="100%" ratio={16 / 9}>
         <iframe
-          src="https://cdn.jwplayer.com/players/wvc5C6yF-TcKAhMMJ.html"
+          src="https://cdn.jwplayer.com/players/lTjEspkT-TcKAhMMJ.html"
           title="Negus Intro"
           allowFullScreen
         />
