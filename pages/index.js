@@ -82,7 +82,7 @@ const Home = () => (
           I am a full-stack developer and support engineer based in New Haven with a
           passion for building digitals services and continuously self-learning. I have a knack
           for all things launching products, from planning and designing all the
-          way to solving real-life problems with code. When not online, I love
+          way to solving real-life problems with code. When offline I love
           working out and reading-self development books. Currently, I am an employee of JW Player
           supporting their JavaScript webplayer and iOS and Android SDKs.
         </Paragraph>
@@ -122,15 +122,20 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-        Fitness, Music ,{' '}
-          <Link href="https://media-exp1.licdn.com/dms/image/C4E2DAQF77sYybaW-tg/profile-treasury-image-shrink_8192_8192/0/1645488173040?e=1648058400&v=beta&t=4_-cm3hINFtFDptECOrlUei74mHyldmPHbJiWkwGSJw" target="_blank" >
-            Art
+        Fitness, {' '}
+          <Link href="https://virgilabloh.com/free-game/" target="_blank" >
+            Fashion
           </Link>
           , Hiking,{' '}
           <Link href="https://www.goodreads.com/review/list/144125511?ref=nav_mybooks" target="_blank" >
-            Reading {' '}
+            Reading
           </Link>
-          and Machine Learning
+          
+          , Anime
+          and {' '} 
+          <Link href="https://music.apple.com/profile/softwarearchitect" target="_blank" >
+          Music
+          </Link>
         </Paragraph>
       </Section>
 
