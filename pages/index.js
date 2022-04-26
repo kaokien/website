@@ -87,7 +87,7 @@ const Home = () => (
           supporting their JavaScript webplayer and iOS and Android SDKs.
         </Paragraph>
         <Box align="center" my={4}>
-          <NextLink href="/works" scroll={false}>
+          <NextLink href="/works" scroll={false} passHref>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               My portfolio
             </Button>
@@ -208,7 +208,7 @@ const Home = () => (
         </SimpleGrid>
 
         <Box align="center" my={4}>
-          <NextLink href="/post" scroll={false}>
+          <NextLink href="/post" scroll={false} passHref>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               Popular posts
             </Button>
