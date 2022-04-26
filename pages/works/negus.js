@@ -1,4 +1,4 @@
-import { Container, Badge, Link, List, ListItem, AspectRatio} from '@chakra-ui/react'
+import { Container, Badge, Link, List, ListItem, AspectRatio, Stack} from '@chakra-ui/react'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
 import { Title, Meta } from '../../components/work'
 import P from '../../components/paragraph'
@@ -32,8 +32,8 @@ const Work = () => (
           </Link>
         </ListItem>
       </List>
-
-      <AspectRatio maxW="100%" ratio={2}>
+      <Stack spacing="20px">
+      <AspectRatio maxW="100%" ratio={16 / 9}>
         <iframe
           src="https://cdn.jwplayer.com/players/Ts5mrWep-TcKAhMMJ.html"
           title="Negus Intro"
@@ -47,6 +47,7 @@ const Work = () => (
           allowFullScreen
         />
       </AspectRatio>
+      </Stack>
     </Container>
   </Layout>
 )
