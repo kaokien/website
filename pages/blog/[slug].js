@@ -12,7 +12,6 @@ import {
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import Layout from '../../components/layouts/article'
 import styles from '../style.module.css'
-import Bottombar from '../../components/menu'
 
 
 function PostPage({ frontmatter: { title, date }, content }) {
@@ -49,7 +48,7 @@ function PostPage({ frontmatter: { title, date }, content }) {
         
       </Layout>
       
-      <Bottombar />
+    
       
        </>
        
