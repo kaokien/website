@@ -16,4 +16,4 @@ Improves working memory and intelligence with processing speed
 
 ## References
 
-<iframe width="469" height="264" src="https://www.youtube.com/embed/NclX6EW0pr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative; overflow:hidden; padding-bottom:56.25%"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/NclX6EW0pr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="position:absolute;" allowfullscreen></iframe></div>
