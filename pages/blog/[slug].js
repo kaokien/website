@@ -14,6 +14,7 @@ import Layout from '../../components/layouts/article'
 import styles from '../style.module.css'
 
 
+
 function PostPage({ frontmatter: { title, date }, content }) {
   return (
     <>
@@ -45,10 +46,10 @@ function PostPage({ frontmatter: { title, date }, content }) {
             />
           </Box>
         </Box>
-        
+       
       </Layout>
       
-    
+      
       
        </>
        
